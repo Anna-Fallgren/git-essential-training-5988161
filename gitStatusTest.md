@@ -1,1 +1,1 @@
-Testar git status.
+Det här är en ny rad.
