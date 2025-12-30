@@ -1,1 +1,1 @@
-Det här är en ny rad.
+Det här är en ny rad, speciellt för LinkedIn Learning!
